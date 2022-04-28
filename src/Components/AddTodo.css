@@ -1,0 +1,23 @@
+.Structure-Input {
+  align-items: center;
+  /* margin-top: 15%; */
+  margin-left: 20%;
+  width: 300px;
+  padding: 2%;
+  
+}
+
+.Structure-Button {
+  display: flex;
+  margin-left: 63%;
+  margin-top: -6%;
+  background-color: #fff56d;
+}
+.Main-Input {
+  width: 100%;
+  margin-left: -20%;
+  margin-right: 30%;
+  background-color: white;
+  margin-top: -10%;
+ height: 20px;
+}

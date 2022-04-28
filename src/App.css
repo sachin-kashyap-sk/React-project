@@ -1,0 +1,18 @@
+body{
+    background-color: #92BA92;
+}
+
+h2 {
+  
+  margin-left: 12%;
+  
+}
+.App-Structure {
+  align-items: center;
+  margin-left: 25%;
+  margin-right: 25%;
+  background-color: white;
+  width: 40%;
+  height: 150px;
+  margin-top: 5%;
+}
